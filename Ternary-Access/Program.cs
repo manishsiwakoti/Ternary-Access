@@ -5,7 +5,7 @@ namespace Ternary_Access
     class Program
         {
         static void Main(string[] args)
-            {
+            { 
 
             Console.WriteLine($"The cube of 17 is {Program.Cubed(17)}");
             var message = Customer.printNextId();
